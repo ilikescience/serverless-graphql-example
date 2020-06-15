@@ -1,0 +1,10 @@
+[build]
+
+  # This command builds the site
+  command = "npm run build"
+
+  # This is the directory that will be deployed
+  publish = "build"
+
+  # This is where our functions are located
+  functions = "functions"
